@@ -1,6 +1,7 @@
 # NAMED ENTITY RECOGNITION YAKLAŞIMI VE CHATBOT YAPILARI 
 
 Spacy kütüphanesinden ve baştan oluşturulan NER modelleri ile NLP hakkında oluşturduğum çalışmam.
+Medium Linki: https://bit.ly/3OBRunn
 ```python
 model-best --> Verisetiyle oluşturduğum NER modeli 
 config.cfg --> model-best için config dosyası 
