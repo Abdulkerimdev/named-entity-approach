@@ -1,3 +1,14 @@
+# NAMED ENTITY RECOGNITION YAKLAŞIMI VE CHATBOT YAPILARI 
+
+Spacy kütüphanesinden ve baştan oluşturulan NER modelleri ile NLP hakkında oluşturduğum çalışmam.
+```python
+model-best --> Verisetiyle oluşturduğum NER modeli 
+config.cfg --> model-best için config dosyası 
+data.json --> Kaggle'dan alınan sağlık alanıyla ilgili NER veriseti 
+training_data.spacy --> Model için training dosyası
+```
+
+
 ```python
 # Load a spacy model and chekc if it has ner
 import spacy
